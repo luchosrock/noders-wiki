@@ -32,3 +32,4 @@ list de series y animes
 # películas
 - WHOAMI
 - The Game
+- Chappie
